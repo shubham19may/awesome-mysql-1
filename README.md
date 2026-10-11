@@ -63,6 +63,7 @@
 - [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - A high availability and high scalability solution for MySQL.
 - [ProxySQL](https://proxysql.com/) - A high-performance MySQL proxy for connection pooling, load balancing, and query routing.
 - [Vitess](https://vitess.io/) - A database clustering system for horizontal scaling of MySQL.
+- [OLake](https://github.com/datazip-inc/olake) - Open-source MySQL to Apache Iceberg replication using binlog CDC, full refresh and incremental sync. Written in Go.
 
 ## Learning Resources
 
